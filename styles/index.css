@@ -102,7 +102,7 @@ ul li::before{
     display: flex;
     align-content: center;
     justify-content: center;
-    background-image: url(/images/Gradient/watch.png);
+    background-image: url('../images/Gradient/watch.png');
     height: 300px;
     width: 75%;
     border-radius: 5px;
