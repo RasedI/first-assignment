@@ -102,13 +102,10 @@ ul li::before{
     display: flex;
     align-content: center;
     justify-content: center;
-    background-image: url('../images/Gradient/watch.png');
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url('../images/Gradient/watch.png');
+    border-radius: 8px;
     height: 300px;
     width: 75%;
-    border-radius: 5px;
-}
-.footer-image{
-    margin-left: 120px;
     border-radius: 5px;
 }
 footer{
